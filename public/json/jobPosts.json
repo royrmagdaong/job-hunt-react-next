@@ -1,0 +1,89 @@
+{
+    "jobPosts": [
+      {
+        "id": 1,
+        "user-id": 3,
+        "company-name": "Philippine National Bank",
+        "email": "companya@example.com",
+        "logo": "company-a.jpg",
+        "location": "Taguig City",
+        "salary": "25,000.00",
+        "job-title": "Email & Back Office Support • 100% Non-Voice",
+        "job-highlights": [
+          "Apply Onsite and Be Processed from Initial to Final Interview!",
+          "HMO for you and your qualified dependents",
+          "Career Growth Opportunities | Life Insurance | Amazing Benefits",
+          "Annual salary increase",
+          "Opportunity for promotion"
+        ],
+        "job-description": "The position is primarily responsible for providing clerical and administrative support to Cebuana Lhuillier branches. Handles branch transactions - remittance, pawning, insurance and other non-pawnshop products.  Qualifications:",
+        "company-info": "The P.J. Lhuillier Group of Companies is composed of various companies ranging from its flagship business of pawn brokering  to local and international remittance, micro-insurance, rural banking, hotel and restaurant management, jewelry and sports accessory retail, information technology, real estate, professional management, and corporate social responsibility.",
+        "keywords": ["company a","technical support","engineering"],
+        "specialization": "Engineering",
+        "who-we-are": "Ullam ut ipsam perspiciatis nihil facere, eligendi sequi molestiae senectus. Nisi corrupti pharetra inventore bibendum primis, officia? Dictum per ornare dictumst diam, voluptates, nostra montes sequi excepteur, facilisis similique dignissimos. Pretium commodo, senectus, ab, felis netus adipisicing turpis! Adipiscing habitant? Arcu platea? Pariatur class, suscipit ipsa! Orci soluta. Quia eum, arcu nesciunt, error eleifend? Purus iaculis aut mollitia molestias et! Debitis libero consequuntur. Est fermentum? Eu fuga dis? Earum excepturi blanditiis? Officia? Vitae anim cursus lacus perspiciatis? Odio? In hic hendrerit eu lacus molestie, incidunt delectus vitae quidem dolores similique! Ut parturient pulvinar! Pharetra proident, unde cupidatat facilis enim pellentesque."
+      },
+      {
+        "id": 2,
+        "user-id": 3,
+        "company-name": "Bank of the Philippine Islands",
+        "email": "companyb@example.com",
+        "logo": "company-b.jpg",
+        "location": "Makati City",
+        "salary": "55,000.00",
+        "job-title": "DATA ENTRY AGENT (Back Office - Email/Voice) | No Work Exp",
+        "job-highlights": [
+          "Get to work with a small and intimate group of people.",
+          "Work is more visible and employees get noticed faster.",
+          "Employees get to wear many hats and gain different skill sets.",
+          "Fun & engaging company-sponsored events",
+          "HMO with dependent & life insurance"
+        ],
+        "job-description": "Ensure all customers receive the highest level of service by answering inquiries and resolving issues, primarily through email and chat. Perform back-office tasks to complete customer concerns and requests with attention to detail and efficiency. Collaborate and work effectively with other team members to achieve the best results for all customer-related requests.",
+        "company-info": "Transec is a BPO company headquartered in Ortigas, Metro Manila. We specialize on high value small to medium sized businesses both local and international. Our growing company has been lucky enough to work with a variety of clients through our outsourcing solutions in customer service, technical support, data entry and processing, quality assurance, and more back office functions.",
+        "keywords": ["company b","finance", "marketing"],
+        "specialization": "Sales",
+        "who-we-are": "Placerat tristique nulla est magnis quasi quo accusamus, feugiat alias ac elementum, quibusdam? Nisi blandit mattis, amet ullam veritatis porttitor varius quam excepteur exercitation eleifend curabitur vehicula, similique, integer sed ad wisi neque nisi laboriosam! Nesciunt ultricies consequat, malesuada earum! Consectetur cupidatat ab diam "
+      },
+      {
+        "id": 3,
+        "user-id": 3,
+        "company-name": "International Trade Centre",
+        "email": "companyc@example.com",
+        "logo": "company-c.jpg",
+        "location": "Quezon City",
+        "salary": "45,000.00",
+        "job-title": "Client Care Associate / Admin Assistant - No Weekends, No Nights, No Rush Hour!",
+        "job-highlights": [
+          "Outstanding career growth & development opportunities",
+          "Competitive salary & work benefit packages",
+          "Passionate, energetic, & innovative work culture"
+        ],
+        "job-description": "The Teller is responsible for fast and accurate processing of over the counter customer transactions such as checks, deposits, loan payments, and withdrawals.",
+        "company-info": "Philippine Business Bank (PBB) was incorporated on January 28, 1997 as Total Savings Bank and was granted the authority to operate as a thrift bank by the Monetary Board (MB) No.29 dated January 8, 1997. On December 16, 1997, the Securities and Exchange Commission approved the change in its corporate name to the present one. PBB is a savings bank which focuses on corporate and small and medium enterprise (SME) markets. The Company provides close to a full range of banking services and products including cash management, retail and corporate lending, deposit products, international trade finance, treasury and trust products.",
+        "keywords": ["company c", "sales", "manufacturing"],
+        "specialization": "sales",
+        "who-we-are": "Eos nisl parturient viverra faucibus dictum officiis ullamco hic! Convallis? Recusandae consectetur, voluptas suspendisse minima voluptates exercitation iure sapiente quasi? Gravida cum senectus laborum, reprehenderit sunt voluptate fringilla! Molestie lacus aspernatur sunt illum deleniti semper cupidatat totam vulputate eu nesciunt viverra praesent quidem quis sollicitudin delectus neque pharetra proin? Integer? Augue diam explicabo cupidatat! Nisi, parturient felis odit ullamco alias facere augue arcu totam, facilis deserunt deleniti adipisicing, hic ligula, magni ornare? Minima eligendi sagittis ad curae earum leo, rerum, porttitor et, urna cubilia facilisi proident non dictumst, nostrud dolorem dolores esse quis tenetur asperiores ipsum perferendis a deleniti quas."
+      },
+      {
+        "id": 4,
+        "user-id": 3,
+        "company-name": "Cebuana Lhuillier",
+        "email": "companyd@example.com",
+        "logo": "company-d.jpg",
+        "location": "Pasig City",
+        "salary": "44,000.00",
+        "job-title": "Accounts Payable Associate",
+        "job-highlights": [
+          "Outstanding career growth & development opportunities",
+          "Competitive salary & work benefit packages",
+          "Passionate, energetic, & innovative work culture"
+        ],
+        "job-description": "The Teller is responsible for fast and accurate processing of over the counter customer transactions such as checks, deposits, loan payments, and withdrawals.",
+        "company-info": "As of April 26, 2021, PBB has 160 branches with most branches located in areas with high concentration of SME such as Caloocan, Malabon, Navotas, Valenzuela, and Quezon City as well as in highly urbanized cities outside Metro Manila such as Cebu, Davao, and Bacolod.",
+        "keywords": ["company d","tutorial", "tutor","teaching"],
+        "specialization": "Education",
+        "who-we-are": "Mauris ea excepteur maxime aut turpis. Platea consequuntur unde vero lacus, consequuntur, ligula blanditiis, dictumst vehicula incidunt exercitation saepe omnis, litora modi eget pharetra repudiandae tortor interdum, a interdum molestie maecenas suspendisse, dis aliqua tenetur debitis voluptates varius repellat qui nec exercitationem curae consectetur! Occaecati, nunc occaecat luctus risus? Magni arcu potenti urna impedit, earum, id, lobortis, sint occaecati! Voluptatem, placeat, ut cumque ab incidunt proin ab rhoncus exercitationem habitasse, optio porttitor, repellendus venenatis hac harum taciti illum minus natus? Dolorem aut aliquam venenatis. Quam! Cursus placeat perferendis quisque leo perspiciatis, autem? Ipsa esse id, quas? Aspernatur sit, laborum recusandae."
+      }
+    ]
+  }
+  

@@ -1,0 +1,26 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "admin@gmail.com",
+        "password": "password123",
+        "role": "admin"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "applicant@gmail.com",
+        "password": "password123",
+        "role": "applicant"
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "recruiter@gmail.com",
+        "password": "password123",
+        "role": "recruiter"
+      }
+    ]
+  }
+  

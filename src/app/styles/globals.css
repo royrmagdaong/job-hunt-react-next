@@ -1,0 +1,16 @@
+:root {
+    --primary: #158756;
+    --text: #4a4a4d;
+    --light: #FFFFFF;
+    --accent: #d81959;
+    --dark: #f8fafa;
+    --dark-secondary: #f8fafa;
+    --border-color: #d9d9dd;
+    --max-width: 1200px;
+}
+
+html, body{
+ margin: 0;
+ padding: 0;
+ background-color: var(--dark);
+}

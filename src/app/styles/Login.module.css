@@ -1,0 +1,7 @@
+.login-container{
+    max-width: var(--max-width);
+    margin: 0 auto 16px auto;
+    padding: 12px 0;
+    height: 87vh;
+    display: flex;
+}
